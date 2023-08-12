@@ -175,3 +175,7 @@ body {
     bottom: 100%;
   }
 }
+
+a {
+  cursor: pointer;
+}
